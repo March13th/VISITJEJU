@@ -1,5 +1,6 @@
 # VISITJEJU
 ## 汉拿山预约使用
+(感谢XHS Nanedashen的更新)
 - 脚本有语音提醒，记得开启声音
 
 ### Windows终端
