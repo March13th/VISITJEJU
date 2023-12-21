@@ -1,6 +1,5 @@
 # VISITJEJU
 ## 汉拿山预约使用
-- 脚本只请求https://visithalla.jeju.go.kr/reservation/status.do的本页中的日期
 - 脚本有语音提醒，记得开启声音
 
 ### Windows终端
